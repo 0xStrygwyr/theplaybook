@@ -1,7 +1,7 @@
 [submodule "themes/mainroad"]
 	path = themes/mainroad
 	url = https://github.com/vimux/mainroad.git
-	ignore = untracked
+
 [submodule "Submod"]
 	url = https://github.com/vimux/mainroad.git
 	branch = Development
