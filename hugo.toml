@@ -1,4 +1,14 @@
-baseURL = 'https://0xStrygwyr.github.io/theplaybook/'
-languageCode = 'en-us'
-title = 'My New Hugo Site'
-theme = 'mainroad'
+baseURL = "https://0xStrygwyr.github.io/theplaybook/"
+title = "yusuf aziz mustofa"
+languageCode = "en-us"
+paginate = "10" # Number of posts per page
+theme = "mainroad"
+disqusShortname = "" # Enable comments by entering your Disqus shortname
+googleAnalytics = "" # Enable Google Analytics by entering your tracking id
+
+[menu]
+[[menu.main]]
+    name = 'Home'
+    pageRef = '/'
+    weight = 1
+
